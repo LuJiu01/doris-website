@@ -141,7 +141,7 @@ under the License.
 
 - 优化使用低版本 OBJECT 驱动连接 Oracle 时的报错信息。[#37634](https://github.com/apache/doris/pull/37634)
 
-- 当 Hudi 表 Incremental Read 返回空集时，Doris 同样返回空集而非报错。[#37636](https://github.com/apache/doris/pull/37634)
+- 当 Hudi 表 Incremental Read 返回空集时，Doris 同样返回空集而非报错。[#37636](https://github.com/apache/doris/pull/37636)
 
 - 修复部分情况下内外表关联查询可能导致 FE 超时的问题。[#37757](https://github.com/apache/doris/pull/37757)
 
